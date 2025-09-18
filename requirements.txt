@@ -4,3 +4,5 @@ opencv-python-headless
 numpy
 Pillow
 scikit-learn
+tensorflow-hub
+tensorflow-io-gcs-filesystem
